@@ -30,5 +30,13 @@ I can fuk you better(give me one night and you'll see)
 Your girl don't matter(She Wish She got it just like me)
 'Cause you fukin' with the bad ass(She could never be like me)
 
+<<<<<<< HEAD
 e
+=======
+<<<<<<< HEAD
+a
+=======
+c
+>>>>>>> 60e81e4e86db64e2b407a6f69631e8152aa379b4
+>>>>>>> 06891a719c187d9cec9c84e681f26cb37e0d431c
 
