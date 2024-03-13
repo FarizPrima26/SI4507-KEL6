@@ -31,7 +31,15 @@ Your girl don't matter(She Wish She got it just like me)
 'Cause you fukin' with the bad ass(She could never be like me)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 e
+=======
+<<<<<<< HEAD
+b
+=======
+D
+>>>>>>> a88868b8611811990ef1426c43f040b45e52d63f
+>>>>>>> 82b10a16e687afe0d79c9a761a991e1bcfcb188f
 =======
 <<<<<<< HEAD
 a
@@ -40,3 +48,4 @@ c
 >>>>>>> 60e81e4e86db64e2b407a6f69631e8152aa379b4
 >>>>>>> 06891a719c187d9cec9c84e681f26cb37e0d431c
 
+>>>>>>> 06891a719c187d9cec9c84e681f26cb37e0d431c
